@@ -1,12 +1,1 @@
-[1mdiff --git a/index.html b/index.html[m
-[1mindex 76172bf..f4f4bb1 100644[m
-[1m--- a/index.html[m
-[1m+++ b/index.html[m
-[36m@@ -1,4 +1,4 @@[m
- <p>New Paragraph</p>[m
- <p>Added new feature(dropdown)</p>[m
- <p>Added new feature(button)</p>[m
-[31m-<p>Added new feature(textbox)</p>[m
-\ No newline at end of file[m
-[32m+[m[32m<p>Added new feature(radio button)</p>[m
-\ No newline at end of file[m
+
